@@ -1,4 +1,4 @@
-## Hi there! I'm Lynnie
+## Hi there! I'm Cher
 **🍄About me**
 
 I'm a first-year datsci student in HKU curious about the world of code.
