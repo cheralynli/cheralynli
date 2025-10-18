@@ -6,7 +6,8 @@ My journey here is currently working on cool projects starting from "Hello World
 
 I'm interested in learning about how front-end development works and how I can implement it in presenting data-driven insights.
 
-**✨What's next?**
+**✨Looking forward**
 
 
 I'm always open to collaborating on interesting projects or discussing data science, web development, and everything in between!
+Linkedin: cheralynlianto
