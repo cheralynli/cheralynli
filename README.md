@@ -9,6 +9,6 @@ I'm interested in learning about how full-stack development works and how I can 
 **✨Looking forward**
 
 
-I'm always open to collaborating on interesting projects or discussing data science, app/web development, and everything in between!
+I'm always open to collaborating on interesting projects or discussing about data science, app/web development, and everything in between!
 
 Linkedin: cheralynlianto
