@@ -2,7 +2,8 @@
 **🍄About me**
 
 I'm a first-year datsci student in HKU curious about the world of code.
-My journey here is currently working on cool projects starting from "Hello World" to building productivity apps and exploring software development tools.
+My journey here is currently practicing python's functions and getting used to c++'s syntax and commands.
+My goal is to work on cool projects starting from "Hello World" to building productivity apps and exploring software development tools.
 
 I'm interested in learning about how full-stack development works and how I can implement it in presenting data-driven insights.
 
